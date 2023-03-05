@@ -53,7 +53,7 @@ Official documentation: https://inivation.gitlab.io/dv/dv-docs/docs/getting-star
 Or our records:
 ## Notes
 * This data set can only be used for academic research and is strictly prohibited for commercial use!
-* If this data set is used, please quote the following papers:
+* If this data set is used, please cite the following papers:
 ```bibtex
 @inproceedings{20230613559916 ,
 language = {English},
