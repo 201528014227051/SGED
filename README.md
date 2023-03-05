@@ -7,6 +7,7 @@ This is a dataset for multimodal emotion recognition recorded with DAVIS346. In 
 ## Dataset Description
 Different postures that can convey positive, negative and neutral emotions were selected and volunteers were recruited for data collection. In order to enhance the diversity of data, we set different collection scenarios.
 ![](./SGED-example.png)
+
 The above figure shows three samples from the data set. The first column is a video image of a certain frame, the second column represents the evolution of the event color from yellow to blue over time, and the third column is an event with different polarity. Blue represents the positive polarity of the event, and red represents the negative polarity of the event.
 
 ## Data Format and usage
