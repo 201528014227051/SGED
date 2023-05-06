@@ -73,4 +73,15 @@ pages = {50 - 58},
 issn = {16130073},
 address = {Virtual, Online, China},
 } 
+
+@article{wang2023sged,
+	title={SGED: A Benchmark dataset for Performance Evaluation of Spiking Gesture Emotion Recognition},
+	author={Wang, Binqiang and Dong, Gang and Yaqian, Zhao and Rengang, Li and Lu, Cao and Lihua, Lu},
+	journal={arXiv preprint arXiv:2304.14714},
+	year={2023}
+}
 ```
+
+
+
+
