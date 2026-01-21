@@ -1,4 +1,4 @@
-# SGED
+# SGED AKA RGB-E Gesture Authentication Dataset
 Spiking Gesture Emotion Dataset
  ![](./SGED-Title.png)
  
