@@ -60,6 +60,15 @@ Or our records:
 * This data set can only be used for academic research and is strictly prohibited for commercial use!
 * If this data set is used, please cite the following papers:
 ```bibtex
+@inproceedings{wang2024fusion,
+  title={Fusion of Heterogeneous Data for Enhanced Gesture Authentication: An RGB-Event Stream Approach},
+  author={Wang, Binqiang and Lu, Lihua and Jiang, Jinzhe and Dong, Gang},
+  booktitle={Chinese Conference on Biometric Recognition},
+  pages={49--58},
+  year={2024},
+  organization={Springer}
+}
+
 @inproceedings{20230613559916 ,
 language = {English},
 copyright = {Compilation and indexing terms, Copyright 2023 Elsevier Inc.},
